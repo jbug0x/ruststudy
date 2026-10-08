@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+    "day01-basics",
+    "day02-ownership",
+    "day03-structs-enums",
+    "day04-collections-iterators",
+    "day05-traits-generics",
+    "day06-modules-testing",
+    "day07-crypto-intro",
+]
