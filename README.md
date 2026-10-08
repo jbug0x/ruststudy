@@ -2,6 +2,16 @@
 
 Estudo de Rust do zero, estruturado em 7 dias, com foco em prática + entendimento do "porquê" por trás de cada conceito. Objetivo final não é virar expert em uma semana — é sair capaz de escrever código Rust simples por conta própria e com uma base real para depois seguir para a parte de criptografia (ecossistema RustCrypto e afins).
 
+## Como retomar o estudo
+
+Abra **[PROGRESS.md](PROGRESS.md)** antes de qualquer coisa — é o arquivo
+que diz em que dia e etapa o estudo está, o que já foi feito, o que travou
+na última sessão e qual é a próxima ação concreta. Se o estudo for feito em
+sessões de chat separadas (ex: um chat por dia), basta abrir o repositório
+em uma sessão nova do Claude Code: as instruções em `CLAUDE.md` já fazem o
+assistente ler o `PROGRESS.md` primeiro e continuar de onde parou. No fim
+de cada sessão, o `PROGRESS.md` é atualizado antes de encerrar.
+
 ## Metodologia
 
 Cada dia segue a mesma estrutura, pensada para quem aprende melhor fazendo e depois entendendo o que aconteceu:
